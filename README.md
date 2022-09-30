@@ -34,17 +34,17 @@ Logo 🔥
  $ pip install --upgrade pip 
  $ git clone https://github.com/FilterXyz/PERTALIT1
  $ ls ( L kecil ) 
- $ cd PERTALIT1
- $ python Pertalit.py 
+ $ cd Pertalit
+ $ python Pertalit1.py 
  ``` 
 ## CARA UPDATE
 
 ```php 
  $ ls ( L kecil ) 
- $ cd PERTALIT1
+ $ cd Pertalit
  $ ls ( L kecil ) 
  $ git pull 
- $ python Pertalit.py 
+ $ python Pertalit1.py 
  ``` 
  
 ## MY GITHUB & MY WHATSAPP 

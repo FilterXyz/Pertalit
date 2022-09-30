@@ -32,7 +32,7 @@ Logo 🔥
  $ pip install rich bs4 
  $ pip install stdiomask 
  $ pip install --upgrade pip 
- $ git clone https://github.com/FilterXyz/PERTALIT1
+ $ git clone https://github.com/FilterXyz/Pertalit
  $ ls ( L kecil ) 
  $ cd Pertalit
  $ python Pertalit1.py 
